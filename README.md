@@ -24,7 +24,7 @@ You can use this login page in:
 
 ## 🙋‍♀️ Author
 
-Made by **Fiza Khan**  
+Made by **@kfizza1**  
 Feel free to use and improve it!
 
 ---
